@@ -1,4 +1,4 @@
-package Recursion.Strong_Hold;
+package Recursion.Subsequences_Patterns;
 
 public class Print_all_subsets_of_string {
     public static void printSubSets(String str, String curr, int idx){

@@ -1,4 +1,4 @@
-package Recursion.Strong_Hold;
+package Recursion.Subsequences_Patterns;
 
 import java.util.ArrayList;
 import java.util.List;
